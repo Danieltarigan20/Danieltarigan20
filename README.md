@@ -1,7 +1,7 @@
 ## <b>🛠️ Languages-Frameworks-Tools </b>
-  <code><img src="https://skillicons.dev/icons?i=c,cpp,css,dart,go,html,java,javascript,lua,md,mysql,php,py,regex,sass"/></code>
-  <code><img src="https://skillicons.dev/icons?i=bootstrap,flutter,gradle,materialui,jquery,nextjs,nodejs,npm,postman,react,tailwind,vite"/></code>
-  <code><img src="https://skillicons.dev/icons?i=androidstudio,arduino,codepen,figma,git,github,powershell,pycharm,sublime,stackoverflow,vercel,visualstudio,vscode"/></code>
+  <code><img src="https://skillicons.dev/icons?i=html,css,js,py,php,htmx,cpp,c,"/></code>
+  <code><img src="https://skillicons.dev/icons?i=bootstrap,anaconda,react,threejs,nodejs,nextjs,laravel,wordpress,postman,"/></code>
+  <code><img src="https://skillicons.dev/icons?i=vercel,mysql,blender,ps,vscode,vue,sublime,svg,linux,debian,tailwind,codepen,pr,github,git,figma,discord "/></code>
 
 ## <b>🛠️ Used Languages</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danieltarigan20&show_icons=true&locale=en&layout=compact" alt="Danieltarigan20" /></p>
